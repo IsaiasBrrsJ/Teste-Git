@@ -24,4 +24,4 @@
 - Como Riscar uma **~~Palavra~~**
 > User duas ~~ do inicio e no final da palavra ou frase
 
-> __[*Clique Aqui*](https://www.youtube.com.br)__
+> __[*Clique Aqui*](https://www.youtube.com.br "Youtube")__
