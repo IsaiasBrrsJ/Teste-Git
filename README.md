@@ -20,3 +20,7 @@
 
 - Como Usar _Italic_
 > Use um _ no inicio da frase e no final da frase
+
+- Como Riscar uma **~~Palavra~~**
+> User duas ~~ do inicio e no final da palavra ou frase
+
