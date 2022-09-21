@@ -28,5 +28,4 @@
 
 [Click Here](link-url "Google")
 
-[link-url]:
-https://www.google.com.br
+[link-url]:https://www.google.com.br/
