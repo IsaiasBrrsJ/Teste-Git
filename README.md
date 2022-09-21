@@ -12,3 +12,11 @@
 > _Italic_
 
 > lorem
+
+> **~~_Lorem_~~**
+
+- Como Usar **Negrito**
+> Use dois ** no inicio da frase e no final da frase
+
+- Como Usar _Italic_
+> Use dois _ no inicio da frase e no final da frase
