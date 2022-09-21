@@ -26,6 +26,6 @@
 
 > __[*Clique Aqui*](https://www.youtube.com.br "Youtube")__
 
-[Click Here](link-url "Google")
+[Click Here][link-url]
 
 [link-url]:https://www.google.com.br/
