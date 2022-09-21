@@ -19,4 +19,4 @@
 > Use dois ** no inicio da frase e no final da frase
 
 - Como Usar _Italic_
-> Use dois _ no inicio da frase e no final da frase
+> Use um _ no inicio da frase e no final da frase
