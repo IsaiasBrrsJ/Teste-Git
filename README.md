@@ -25,3 +25,8 @@
 > User duas ~~ do inicio e no final da palavra ou frase
 
 > __[*Clique Aqui*](https://www.youtube.com.br "Youtube")__
+
+[Click Here](link-url "Google")
+
+[link-url]:
+https://www.google.com.br
