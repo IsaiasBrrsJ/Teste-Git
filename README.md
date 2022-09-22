@@ -44,5 +44,3 @@
 
 [Url]: https://www.portovelho.ro.gov.br/
 
-
-teste mudando a cor de uma palavra, `VAI MUDAR AQUI`
